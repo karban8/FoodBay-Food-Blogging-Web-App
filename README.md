@@ -1,5 +1,5 @@
 # FoodBay-Food-Blogging-Web-App
-A Full Stack Web Application built using MERN stack and Chakra UI
+A <b> Full Stack Web Application </b> built using MERN stack and Chakra UI
 <br/>FoodBay is a fully responsive Food Blogging App, where we can publish blogs about different cuisines from around the world, and it offers different consoles for admin and user.
 
 
@@ -11,6 +11,8 @@ Web App is hosted at https://foodbay.onrender.com/
 - Reading a Blog
 - Updating a Blog
 - Deleting a Blog
+
+It also has added functionality of Pagination, Filtering and Dark Mode support
 
 HomePage
 
